@@ -1,0 +1,6 @@
+jupyter notebook
+numpy
+matplotlib
+sklearn 
+tensorflow 2.5
+streamlit
