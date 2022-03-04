@@ -1,5 +1,5 @@
 numpy
 matplotlib
 sklearn 
-tensorflow 2.5
+tensorflow 
 streamlit
